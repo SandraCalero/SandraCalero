@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandracalero&label=Profile%20views&color=0e75b6&style=flat" alt="sandracalero" /> </p>
 
-- 🌱 I’m currently learning **React, JS, bootstrap**
+- 🌱 I’m currently learning **React-Redux, Typescript, Tilwind**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SandraCalero](https://github.com/SandraCalero)
 
